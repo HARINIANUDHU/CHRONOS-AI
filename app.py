@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 from sklearn.ensemble import IsolationForest
 
 st.set_page_config(
-    page_title="STORM AI | Weather Anomaly Intelligence",
+    page_title="CHRONOS-AI | Weather Anomaly Intelligence",
     page_icon="🌩️",
     layout="wide",
     initial_sidebar_state="expanded",
