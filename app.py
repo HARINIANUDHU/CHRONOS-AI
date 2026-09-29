@@ -303,7 +303,7 @@ except Exception as e:
 # -----------------------------
 # Sidebar
 # -----------------------------
-st.sidebar.markdown("## 🌩️ STORM AI")
+st.sidebar.markdown("## 🌩️ CHRONOS-AI")
 st.sidebar.caption("Spatio-Temporal Weather Anomaly Intelligence")
 
 st.sidebar.markdown("### Forecast Controls")
@@ -338,7 +338,7 @@ st.sidebar.write("🟡 Live radar: Prototype")
 # -----------------------------
 # Header
 # -----------------------------
-st.markdown("# 🌩️ STORM AI")
+st.markdown("# 🌩️ CHRONOS-AI")
 st.markdown(
     "**AI-Driven Spatio-Temporal Tracking of Extreme Weather Anomalies in Medium-Range Forecasts**"
 )
