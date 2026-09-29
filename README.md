@@ -1,4 +1,4 @@
-# STORM AI — SIH Prototype
+# CHRONOS-AI — SIH Prototype
 
 AI-Driven Spatio-Temporal Tracking of Extreme Weather Anomalies in Medium-Range Forecasts.
 
